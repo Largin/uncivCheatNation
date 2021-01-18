@@ -1,0 +1,27 @@
+
+game.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Winery
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Kingdom
+  rotate: false
+  xy: 204, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pathfinder
+  rotate: false
+  xy: 1416, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

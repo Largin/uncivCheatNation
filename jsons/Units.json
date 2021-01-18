@@ -1,0 +1,15 @@
+[
+{
+    "name": "Pathfinder", //modded
+    "unitType": "Scout",
+    "replaces": "Scout",
+    "uniqueTo": "Kingdom",
+    "movement": 3,
+    "strength": 8,
+    "upgradesTo": "Composite Bowman",
+    "cost": 25,
+    "obsoleteTech": "Scientific Theory",
+    "uniques": ["Ignores terrain cost"],
+    "attackSound": "nonmetalhit"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Kingdom",
+    "leaderName": "Aegia",
+    "adjective": ["Kingdom"],
+    "startBias": ["Hill", "Plains", "Forest"],
+
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "We greet thee, oh great Aegia, Lady of Kingdom, who causes the sun to rise and the Moon to shine, and who blesses his fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived among these woods, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
+    "startIntroPart2": "Oh, Aegia, for uncounted years your people endured, as other petty nations around them have risen and then fallen into dust. They look to you to lead them once more into greatness. Can you honor the gods and bring Kingdom back to her rightful place at the very center of the world? Can you build a civilization that will stand the test of time?",
+
+    "declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
+    "attacked": "It can not be true, but I feel it is. We will do our best to fend you off!",
+    "defeated": "The bitter taste of defeat. You will taste it as well. Someday...",
+    "introduction": "You stand in front of Lady Aegia, the great queen. Are you a friend or a foe?",
+
+    "neutralHello": "Greetings.",
+    "neutralLetsHearIt": ["Yes.","Speak."],
+    "neutralNo": ["No.","That's unacceptable."],
+    "neutralYes": ["I can't refuse.","I gladly accept."],
+    "hateHello": "Don't waste my time!",
+    "hateLetsHearIt": "What's your offer?",
+    "hateNo": ["Hungary will never accept that!","No way!"],
+    "hateYes": ["I must accept.","I never reject a good offer."],
+
+    "afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
+    "tradeRequest": "I've got an offer. Are you interested?",
+
+    "outerColor": [57, 115, 50],
+    "innerColor": [234, 105, 49],
+
+    "uniqueName": "The Queen",
+    "uniqueText": "Many uniques. Many...",
+    "uniques": ["+[50]% Production when constructing [Wonders]",
+      "+[10]% Production when constructing [Library]",
+      "+[10]% Production when constructing [University]",
+      "+[10]% Production when constructing [Observatory]",
+      "+[10]% Production when constructing [Public School]",
+      "+[10]% Production when constructing [Research Lab]",
+      "[Great Scientist] is earned [50]% faster",
+      "+[1] Movement for all [Water] units",
+      "+[1] Movement for all [Mounted] units"
+      "[+1 Production] from every [Strategic Resource]",
+      "[+1 Gold] from every [Luxury Resource]",
+      "+1 Sight for all land military units",
+      "Unhappiness from population decreased by [25]%"
+      "-[25]% [Land] unit maintenance costs",
+      "-[66]% [Water] unit maintenance costs",
+      "[+2 Science] from every specialist",
+      "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
+      "+10% Strength for all units during Golden Age",
+      "Double Happiness from Natural Wonders",
+      "Tile yields from Natural Wonders doubled",
+      "Melee units pay no movement cost to pillage",
+      "Each city founded increases culture cost of policies [50]% less than normal"
+    ],
+    "cities": ["Vilnius","Kaunas","Klaipeda","Kernave","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
+      "Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
+      "Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
+  }
+]
