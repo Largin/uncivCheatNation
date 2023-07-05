@@ -9,6 +9,6 @@
     "hurryCostModifier": 25,
     "percentStatBonus": {"gold": 25},
     "requiredTech": "Currency",
-    "uniques": ["[+3 Gold] from [Wine] tiles in this city"],
+    "uniques": ["[+3 Gold] from [Wine] tiles [in this city]"],
   }
 ]
