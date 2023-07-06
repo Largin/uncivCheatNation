@@ -32,21 +32,25 @@
 
     "uniqueName": "The Queen",
     "uniqueText": "Many uniques. Many...",
-    "uniques": ["[+20]% Production when constructing [All] wonders [in all cities]",
+    "uniques": [
+      "[-25]% Culture cost of adopting new Policies",
+      "[+20]% Production when constructing [All] wonders [in all cities]",
+      "[+25]% Production towards any buildings that already exist in the Capital",
       "[Great Scientist] is earned [50]% faster",
-      "[+1] Movement <for [Water] units>",
+      "Great General provides double combat bonus"
       "[+1] Movement <for [Mounted] units>",
-      "[+1 Production] from every [Strategic resource]",
-      "[+1] Sight <for [{Military} {Land}] units>",
-      "[-25]% Unhappiness from [Population] [in all cities]"
+      "[+1] Sight <for [{Scout}] units>",
       "[-25]% maintenance costs <for [Land] units>",
       "[-50]% maintenance costs <for [Water] units>",
-      "[+1 Science] from every specialist [in all cities]",
-      "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
+      "[+50]% XP gained from combat <for [Military] units>"
       "[+10]% Strength <for [All] units> <during a Golden Age>",
+      "[+1 Production] from every [Strategic resource]",
+      "[+1 Culture, +2 Gold] from every [Luxury resource]",
+      "[+3 Culture] [in capital] <before discovering [Steam Power]>",
+      "[-25]% Unhappiness from [Population] [in all cities]"
       "[+1 Happiness] for every known Natural Wonder",
       "[+100]% Yield from every [Natural Wonder]",
-      "No movement cost to pillage <for [Melee] units>"
+      "May choose [2] additional belief(s) of any type when [founding] a religion"
     ],
     "cities": ["Vilnius","Kaunas","Klaipeda","Kernave","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
       "Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
