@@ -47,6 +47,7 @@
       "[+1 Production] from every [Strategic resource]",
       "[+1 Culture, +2 Gold] from every [Luxury resource]",
       "[+3 Culture] [in capital] <before discovering [Steam Power]>",
+      "[+3 Production] [in capital] <before discovering [Steam Power]>",
       "[-25]% Unhappiness from [Population] [in all cities]"
       "[+1 Happiness] for every known Natural Wonder",
       "[+100]% Yield from every [Natural Wonder]",
