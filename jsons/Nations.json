@@ -33,9 +33,9 @@
     "uniqueName": "The Queen",
     "uniqueText": "Many uniques. Many...",
     "uniques": [
-      "[-25]% Culture cost of adopting new Policies",
+      "[-50]% Culture cost of adopting new Policies",
       "[+20]% Production when constructing [All] wonders [in all cities]",
-      "[+25]% Production towards any buildings that already exist in the Capital",
+      "[+40]% Production towards any buildings that already exist in the Capital",
       "[Great Scientist] is earned [50]% faster",
       "[Great General] is earned [100]% faster",
       "Great General provides double combat bonus",
@@ -46,13 +46,13 @@
       "[+50]% XP gained from combat <for [Military] units>",
       "[+10]% Strength <for [All] units> <during a Golden Age>",
       "[+1 Production] from every [Strategic resource]",
-      "[+1 Culture, +2 Gold] from every [Luxury resource]",
+      "[+2 Culture, +2 Gold] from every [Luxury resource]",
       "[+3 Culture] [in capital] <before discovering [Steam Power]>",
       "[+3 Production] [in capital] <before discovering [Steam Power]>",
       "[-25]% Unhappiness from [Population] [in all cities]",
-      "[+1 Happiness] for every known Natural Wonder",
+      "[+2 Happiness] for every known Natural Wonder",
       "[+100]% Yield from every [Natural Wonder]",
-      "May choose [2] additional belief(s) of any type when [founding] a religion"
+      "May choose [1] additional belief(s) of any type when [founding] a religion"
     ],
     "cities": ["Vilnius","Kaunas","Klaipeda","Kernave","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
       "Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
