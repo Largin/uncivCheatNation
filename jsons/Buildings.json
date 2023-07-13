@@ -9,6 +9,17 @@
     "hurryCostModifier": 25,
     "percentStatBonus": {"gold": 25},
     "requiredTech": "Currency",
-    "uniques": ["[+3 Gold] from [Wine] tiles [in this city]"],
-  }
+    "uniques": ["[+3 Gold] from [Wine] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+  },
+	{
+		"name": "High Lighthouse",
+    "replaces": "Lighthouse",
+    "uniqueTo": "Kingdom",
+    "production": 2,
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be next to [Coast]", "[+2 Food, +1 Production] from [Ocean] tiles [in this city]",
+			"[+2 Food, +1 Production] from [Coast] tiles [in this city]", "[+2 Food] from [Fish] tiles [in this city]" ],
+		"requiredTech": "Optics"
+	}
 ]
