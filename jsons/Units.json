@@ -1,5 +1,5 @@
 [
-{
+  {
     "name": "Pathfinder", //modded
     "unitType": "Scout",
     "replaces": "Scout",
@@ -11,5 +11,20 @@
     "obsoleteTech": "Scientific Theory",
     "uniques": ["Ignores terrain cost"],
     "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Husar", //modded
+    "unitType": "Mounted",
+    "replaces": "Knight",
+    "uniqueTo": "Kingdom",
+    "movement": 4,
+    "strength": 25,
+    "requiredTech": "Chivalry",
+    "obsoleteTech": "Military Science",
+    "upgradesTo": "Cavalry",
+    "requiredResource": "Horses",
+    "cost": 120,
+    "uniques": ["Can move after attacking", "Never appears as a Barbarian unit", "Ignores terrain cost"],
+    "attackSound": "horse"
   }
 ]
