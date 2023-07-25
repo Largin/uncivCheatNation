@@ -1,0 +1,11 @@
+{
+	"modUrl": "https://github.com/Largin/uncivCheatNation",
+	"author": "ArchDuque-Pancake",
+	"constants": {
+		"maxXPfromBarbarians": 210,
+    "naturalWonderCountMultiplier": 0.5,
+    "naturalWonderCountAddedConstant": 0.5,
+    "ancientRuinCountMultiplier": 0.04,
+    "riverCountMultiplier": 0.02
+	}
+}
