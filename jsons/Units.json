@@ -6,7 +6,7 @@
     "uniqueTo": "Kingdom",
     "movement": 3,
     "strength": 8,
-    "upgradesTo": "Cavalry",
+    "upgradesTo": "Composite Bowman",
     "cost": 15,
     "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study"],
     "attackSound": "nonmetalhit"
