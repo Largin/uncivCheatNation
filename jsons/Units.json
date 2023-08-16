@@ -8,8 +8,7 @@
     "strength": 8,
     "upgradesTo": "Cavalry",
     "cost": 15,
-    "obsoleteTech": "Scientific Theory",
-    "uniques": ["Ignores terrain cost"],
+    "promotions": ["Ignore terrain cost", "Rejuvenation", "Quick Study"],
     "attackSound": "nonmetalhit"
   }
 ]
